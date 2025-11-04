@@ -9,7 +9,7 @@ void countdown(int n) {
     countdown(n - 1);
 }
 
-int main()
+int main()g
 {
     countdown(3);
     return 0;
