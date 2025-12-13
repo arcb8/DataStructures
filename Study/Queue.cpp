@@ -1,5 +1,6 @@
 #include <cassert>
 #include <iostream>
+
 struct Node {
     int data;
     Node* next;
